@@ -1,0 +1,13 @@
+﻿生成启动时间为 11/7/2019 4:02:04 PM。
+     1>项目“C:\Users\cgccomeau\Documents\Visual Studio 2012\Projects\PointerTests\PointerTests\PointerTests.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>c:\users\cgccomeau\documents\visual studio 2012\projects\pointertests\pointertests\源.cpp(24): error C2146: 语法错误: 缺少“;”(在标识符“A”的前面)
+     1>c:\users\cgccomeau\documents\visual studio 2012\projects\pointertests\pointertests\源.cpp(98): error C2228: “.a”的左边必须有类/结构/联合
+                 类型是“A [2]”
+     1>已完成生成项目“C:\Users\cgccomeau\Documents\Visual Studio 2012\Projects\PointerTests\PointerTests\PointerTests.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.58
